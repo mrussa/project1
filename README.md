@@ -1,7 +1,11 @@
 # Scrumdinger
 
 В рамках изучения, используя туториалы App Dev, было создано приложение, используя SwiftUI для iOS.
-![Home Screen](./screen/Home Screen.png)
+
+| ![Home Screen](./screen/Home Screen.png) |
+|:---------------------------:|
+|   **`Home Screen`**   |
+
 
 <video width="320" height="240" controls>
   <source src="./screen/Scrum list.mov" type="video/quicktime">
