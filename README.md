@@ -5,7 +5,6 @@
 ![Home Screen](./screen/HomeScreen.png)
 
 
-
 <video width="320" height="240" controls>
   <source src="./screen/Scrumlist.mov" type="video/quicktime">
   Your browser does not support the video tag.
