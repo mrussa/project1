@@ -2,7 +2,7 @@
 
 В рамках изучения, используя туториалы App Dev, было создано приложение, используя SwiftUI для iOS.
 
-| ![Home Screen](./screen/Home Screen.png) |
+| ![Home Screen](./screen/HomeScreen.png) |
 |:---------------------------:|
 |   **`Home Screen`**   |
 
