@@ -5,12 +5,14 @@
 ![Home Screen](./screen/HomeScreen.png)
 
 
-<video width="320" height="240" controls>
-  <source src="./screen/Scrumlist.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
 
-<video width="320" height="240" controls>
-  <source src="./screen/Scrumtimer.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/mrussa/project1/assets/35938126/bf224f66-868e-482e-8277-4437804ea06c
+
+
+
+
+https://github.com/mrussa/project1/assets/35938126/af3d3aef-654a-41b9-b5d6-13969a2ccb7e
+
+
